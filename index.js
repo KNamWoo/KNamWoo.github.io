@@ -3,5 +3,5 @@ function ptext(){
 }
 
 function move(){
-    location.href="element.html";
+    location.href="https://knamwoo.github.io/element.html";
 }
