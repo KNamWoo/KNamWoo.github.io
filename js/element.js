@@ -1,3 +1,3 @@
 function back(){
-    location.href="https://knamwoo.github.io/index.html";
+    location.href="https://knamwoo.github.io/studyhtml";
 }
